@@ -5,8 +5,8 @@ This project analyzes Superstore sales data using Python (Google Colab), pandasq
 
 ## Files
 - superstore_analytics_project.ipynb: Main notebook.
-- vaibhav.csv: Sample dataset (upload before running).
-- analytics_report.pdf: (Optional) Visual report.
+- Sample - Superstore.csv: Sample dataset (upload before running).
+- untitled0.py: (Optional) Visual report.
 
 ## How to Run
 1. Download both files from this repo.
